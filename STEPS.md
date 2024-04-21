@@ -5,3 +5,9 @@
 4. branch-1: Added anotherdankmeme.jpg, commiteed changes
 5. branch-1: Merged main into branch-1
 6. branch-1: Added steps to STEPS.md, committed changes
+7.
+8.
+9.
+10.
+11. branch-1: merged branch-2 into branch-1
+12. branch-1: Added steps to STEPS.md, committed changes
