@@ -9,5 +9,7 @@
 8. branch-2: Added more comments to README.md, committed changes
 9. branch-2: Added even more comments to README.md, committed changes
 10. main branch: Added steps to STEPS.md, committed changes
-11. branch-1: merged branch-2 into branch-1
+11. branch-1: merged branch-2 into branch-1, resolved conflict in README.md
 12. branch-1: Added steps to STEPS.md, committed changes
+13. main branch: merged branch-1 into main, resolved conflict in STEPS.md
+14. main branch: Added final steps to STEPS.md, committed changes
